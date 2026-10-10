@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pooriaarab/agentic-verify",
+  "description": "Check mail addresses before any send.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/pooriaarab/agentic-verify",
+    "source": "github",
+    "id": 1413726327
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "agentic-verify",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" },
+      "runtimeHint": "npx",
+      "packageArguments": [
+        { "type": "positional", "valueHint": "subcommand", "value": "mcp" }
+      ]
+    }
+  ]
+}

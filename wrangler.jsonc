@@ -1,0 +1,11 @@
+{
+  // Sample worker config. Run wrangler deploy from the pack root.
+  // Set MILLIONVERIFIER_API_KEY or ZEROBOUNCE_API_KEY as secrets
+  // when the worker should call a vendor.
+  "name": "agentic-verify",
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-01-01",
+  "vars": {
+    "PACK_NAME": "agentic-verify"
+  }
+}

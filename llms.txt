@@ -1,0 +1,15 @@
+# agentic-verify
+
+Check mail addresses before any send.
+
+Keywords: email-verification, deliverability, agentic-suite, claude-code, codex, cli, mcp.
+
+- SDK: import { verifyEmail } from "agentic-verify".
+- CLI: agentic-verify verify --email "...".
+- MCP: run agentic-verify mcp, then call verify_email.
+
+## Docs
+
+- README: https://github.com/pooriaarab/agentic-verify
+- Core contract: https://github.com/pooriaarab/agentic-verify/blob/main/docs/agentic-core.md
+- License: MIT

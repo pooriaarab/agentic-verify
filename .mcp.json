@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentic-verify": {
+      "command": "npx",
+      "args": ["-y", "agentic-verify", "mcp"]
+    }
+  }
+}
