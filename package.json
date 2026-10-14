@@ -1,15 +1,20 @@
 {
   "name": "agentic-verify",
   "version": "0.1.0",
-  "description": "Check mail addresses before any send.",
+  "description": "Email verification for Node.js and AI agents with local syntax checks, MillionVerifier, ZeroBounce, CLI, and MCP tools.",
   "keywords": [
     "email-verification",
+    "email-validation",
     "deliverability",
-    "agentic-suite",
-    "claude-code",
-    "codex",
+    "millionverifier",
+    "zerobounce",
+    "nodejs",
+    "typescript",
     "cli",
-    "mcp"
+    "mcp",
+    "ai-agents",
+    "dry-run",
+    "bulk-email"
   ],
   "license": "MIT",
   "author": "Pooria Arab",
